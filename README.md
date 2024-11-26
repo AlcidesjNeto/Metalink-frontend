@@ -9,5 +9,5 @@ Antes de executar o projeto, é necessário ter o Node.js instalado em seu compu
 `npm install`  # Instala as dependências
 `npm run dev`  # Inicia o servidor
 # Front-end
-Para acessar o repositório do backend:
+Para acessar o repositório do back-end:
 [Back-end](https://github.com/AlcidesjNeto/Metalink-backend)
